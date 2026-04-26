@@ -38,3 +38,7 @@ next-env.d.ts
 .venv
 __pycache__
 *.pyc
+
+# IDE / Agent configs
+.claude
+.qoder
